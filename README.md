@@ -1,5 +1,7 @@
 # JavaLogStatistics
 
-- Read/write files.
-- Calculate max traffic of a site by its log-file - rps.
-- Write result in JSON file.
+- Read file access.log of a site.
+- Calculate max, average requests per second of the site.
+- Write result statistics in JSON file result_statistics.json.
+
+![report.png](pictures%2Freport.png)
